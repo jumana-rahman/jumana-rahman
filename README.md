@@ -55,11 +55,6 @@ I am a passionate <b>Web Developer</b> with a background in <b>Computer Science 
   </a>
 </p>
 
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jumana-rahman&show_icons=true&theme=tokyonight" height="180" width="600"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumana-rahman&layout=compact&theme=tokyonight" height="180" width="600"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jumana-rahman&theme=tokyonight" height="180" width="600"/>
 </p>
