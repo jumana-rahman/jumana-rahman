@@ -14,6 +14,7 @@ I am a passionate <b>Web Developer</b> with a background in <b>Computer Science 
 
 <br/>
 
+<h3 align="center">🚀 Current Focus</h3>
 <ul style="max-width: 700px; margin: auto; line-height: 1.8; font-size: 15px;">
   <li>🌱 I am currently exploring <b>Next.js</b> and advanced <b>React</b> concepts</li>
   <li>💻 I am working on frontend projects and improving <b>UI/UX design</b></li>
